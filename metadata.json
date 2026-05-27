@@ -1,0 +1,6 @@
+{
+  "name": "Automotive Revenue Command Center",
+  "description": "An elite high-performance SaaS command center for independent auto repair shops to track revenues, manage lead pipelines, oversee active bays, view client portals, and monitor API webhooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
